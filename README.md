@@ -1,5 +1,5 @@
 # MovieWeb
-Vue项目：<br/>
+Vue项目：电影网站<br/>
 
 前端：Vue + Vue-router + Vue-resource + iView<br/>
 后端：Node.js + Express + Mongoose<br/>
